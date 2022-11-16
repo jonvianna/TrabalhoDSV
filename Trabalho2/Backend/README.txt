@@ -13,3 +13,8 @@ dotnet ef migrations add InitialCreate
 dotnet ef database update
 
 dotnet run
+
+>> TRABALHO 2 DSV:
+PEDRO LUCCA
+JON VIANNA
+EMILIANO DO NASCIMENTO
